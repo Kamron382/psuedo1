@@ -1,0 +1,37 @@
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+header div{
+    display: flex;
+    justify-content: space-around;
+    width: 700px;
+
+}
+a{
+    text-decoration: none;
+    color: gray;
+}
+a:hover{
+    color: black;
+}
+.section1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.section1 div{
+    width: 400px;
+     
+}
+button{
+    width: 197px;
+    height: 49px;
+    background-color: #458FF6;
+    border: none;
+    border-radius: 50px;
+}
+button:active{
+    background-color: red;
+}
